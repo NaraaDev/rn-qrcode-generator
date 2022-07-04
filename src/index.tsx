@@ -5,7 +5,7 @@ import { QRCodeErrorCorrectionLevel } from "qrcode";
 
 import Matrix from "./Matrix";
 
-function QRGenerator({
+export function QRGenerator({
   bgColor = "white",
   fgColor = "black",
   value,
@@ -45,8 +45,6 @@ function QRGenerator({
     </View>
   );
 }
-
-export default QRGenerator;
 
 const styles = StyleSheet.create({
   row: { flexDirection: "row" },
