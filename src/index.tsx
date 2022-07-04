@@ -57,4 +57,4 @@ const styles = StyleSheet.create({
   },
 });
 
-module.exports = QRGenerator;
+module.exports;
