@@ -1,6 +1,6 @@
 {
-  "name": "rn-qrcode-generator",
-  "version": "1.0.2",
+  "name": "@type/rn-qrcode-generator",
+  "version": "1.0.3",
   "description": "generating qrcode",
   "main": "index.js",
   "scripts": {
