@@ -1,5 +1,5 @@
 import React from "react";
-import { StyleProp, StyleSheet, View, ViewStyle } from "react-native";
+import { StyleProp, View, ViewStyle, StyleSheet } from "react-native";
 
 import { QRCodeErrorCorrectionLevel } from "qrcode";
 

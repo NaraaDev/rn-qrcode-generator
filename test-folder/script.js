@@ -1,0 +1,1 @@
+const QRGenerator = require("");

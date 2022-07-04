@@ -21,6 +21,12 @@
   },
   "homepage": "https://github.com/Naranbat03/rn-qrcode-generator#readme",
   "dependencies": {
-    "qrcode": "^1.5.0"
+    "qrcode": "^1.5.0",
+    "react": "18.0.0",
+    "react-native": "0.69.1"
+  },
+  "devDependencies": {
+    "@types/qrcode": "^1.4.2",
+    "@types/react-native": "^0.69.1"
   }
 }
