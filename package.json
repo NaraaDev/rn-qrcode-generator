@@ -12,7 +12,8 @@
   },
   "keywords": [
     "qr",
-    "generator"
+    "generator",
+    "react-native"
   ],
   "author": "Naranbat",
   "license": "ISC",
