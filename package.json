@@ -1,8 +1,8 @@
 {
-  "name": "@type/rn-qrcode-generator",
+  "name": "rn-qrcode-generator",
   "version": "1.0.3",
   "description": "generating qrcode",
-  "main": "index.js",
+  "main": "index.tsx",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
